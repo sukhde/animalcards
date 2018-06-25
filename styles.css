@@ -1,0 +1,36 @@
+body{
+    background-image:url("https://data.whicdn.com/images/162899894/superthumb.jpg?t=1423837452");
+}
+.animal-image
+{
+    width:300px;
+
+    
+}
+.animal{
+    width:300px;
+    border:1px solid black;
+    padding:10px;
+    box-shadow:5px 10px lightgrey;
+    background-color: rgb(152, 209, 231);
+    margin-left: 600px;
+
+    
+}
+ul{
+    padding:unset;
+}
+
+.intresting-fact
+{
+    border:1px solid black;
+    padding:10px;
+    margin-top:10px;
+    
+}
+li
+ {
+    list-style-type:none;
+ }
+
+  /* add your CSS here */
