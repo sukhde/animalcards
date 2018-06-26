@@ -6,6 +6,7 @@ While working on this project i have learned alot about HTML and CSS . I am conf
 
 ## Demo
 <img src="animalcard.png">
+
 ## Author 
 Sukhdeep sidhu
 
